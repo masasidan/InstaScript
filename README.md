@@ -1,2 +1,2 @@
 ## Usage
-[Download](link) the script & make sure python3 is installed on your computer, and then open it using cmd or any other terminal.
+[Download](https://github.com/idanii/InstaScript/releases/tag/Instascript) the tool & launch it! (If you're scared of viruses you can always use the source I've published [Here](https://github.com/idanii/InstaScript/blob/main/instagram.py) as well)
