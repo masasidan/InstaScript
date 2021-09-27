@@ -1,2 +1,2 @@
-# InstaScript
-A python script that tells you how many of your followers don't follow you back on Instagram.
+## Usage
+[Download](link) the script & make sure python3 is installed on your computer, and then open it using cmd or any other terminal.
